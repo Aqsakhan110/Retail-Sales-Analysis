@@ -49,7 +49,7 @@ Retail-Sales-Dashboard
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/Dashboard.png)
+![Retail Sales Dashboard](Dashboard_insights.png)
 
 ## Purpose
 
